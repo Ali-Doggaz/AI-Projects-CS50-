@@ -1,0 +1,2 @@
+Generates a Minesweeper board.
+An AI agent can be called at any moment to get the best possible next move. 
