@@ -1,0 +1,2 @@
+Trains a convolutional neural network model on a database of traffic signs (https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip) 
+to detect the type of sign in any picture provided by the user.
