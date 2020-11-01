@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 EPOCHS = 10
 IMG_WIDTH = 30
 IMG_HEIGHT = 30
-NUM_CATEGORIES = 3 #Change this when you change the data base's categories number 
+NUM_CATEGORIES = 43 #Change this when you change the data base's categories number 
 TEST_SIZE = 0.4
 
 
@@ -74,8 +74,8 @@ def load_data():
     images = []
     labels = []
     for i in range(NUM_CATEGORIES):
-        for image_path in os.listdir('gtsrb-small' + os.sep + f'{i}'):  #change path when you change the data base name
-            url = 'gtsrb-small' + os.sep + f'{i}' + os.sep + image_path
+        for image_path in os.listdir('gtsrb' + os.sep + f'{i}'):  #change path when you change the data base name
+            url = 'gtsrb' + os.sep + f'{i}' + os.sep + image_path
             im = cv2.imread(url)
             new_image = cv2.resize(im, (IMG_WIDTH, IMG_HEIGHT))
             images.append(new_image)
