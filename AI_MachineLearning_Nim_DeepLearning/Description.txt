@@ -1,0 +1,1 @@
+AI agent that learns to play Nim using Deep-learning (Q-learning).
