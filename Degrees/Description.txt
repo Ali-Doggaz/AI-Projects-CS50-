@@ -1,2 +1,0 @@
-Determines how many “degrees of separation” apart two actors are.
-To understand more about what a degree of separation between two actors is: https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon
