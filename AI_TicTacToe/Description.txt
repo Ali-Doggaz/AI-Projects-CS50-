@@ -1,1 +1,0 @@
-Unbeatable TiTacToe AI agent (Minimax Algorithm)
