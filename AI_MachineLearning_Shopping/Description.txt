@@ -1,0 +1,1 @@
+Machine Learning Algorithm trained to determine how likely it is for a customer to make a purchase when visiting a website.  
