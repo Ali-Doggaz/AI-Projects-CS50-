@@ -5,8 +5,8 @@ Projects for Harvard's [CS50 Introduction to Artificial Intelligence with Python
 
 ## Projects
 
-| Week | Topic            | Name                       | Description                                                        | How to Run                                                            | Video                                   |
-| :--- | :--------------- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- | :-------------------------------------- |
+| Week | Topic            | Name                       | Description                                                        | Problem's Video                                   |
+| :--- | :--------------- | :------------------------- | :----------------------------------------------------------------- | :---------------------------------------------------|
 | 0    | Search           | Degrees         | Determine how many degrees of separation apart two actors are      | `$ python degrees.py large`                                           | [Link](https://youtu.be/SOzAWpJ7iCo)    |
 | 0    | Search           | Tic-Tac-Toe  | Play tic-tac-toe optimally using Minimax                           | `$ python runner.py`                                                  | [Link](https://youtu.be/pfMCl4vkyk8)    |
 | 1    | Knowledge        | Knights      | Solve logic puzzles                                                | `$ python puzzle.py`                                                  | [Link](https://youtu.be/at4x6sRQO-c)    |
